@@ -2,9 +2,9 @@
 A collection of casual browser games to play together with friends remotely.
 
 - [Broken Picute Phone](https://www.brokenpicturephone.com)
-	- Fancier alternative: [Garticphone](https://garticphone.com)
-- [Drawception](https://drawception.com)
-	- An alternative to Broken Picture Phone
+	- Alternatives:
+		- [Garticphone](https://garticphone.com)
+		- [Drawception](https://drawception.com)
 - [Codenames](https://codenames.game)
 	- Online version of the board game
 - [Spyfall](https://spyfall.adrianocola.com)
