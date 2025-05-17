@@ -17,5 +17,7 @@ A collection of casual browser games to play together with friends remotely.
 - [MakeItMeme](https://makeitmeme.com)
 	- Web version of [What do you meme?](https://whatdoyoumeme.com)
 - [WerBinIch](https://www.werbinich.online)
+- [WhatsAMusic](https://whatsamook.games/mu)
+	- Skribbl, but with music you have to guess
 
 You may find more games at [r/WebGames](https://www.reddit.com/r/WebGames).
