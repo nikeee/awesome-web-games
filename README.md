@@ -19,5 +19,6 @@ A collection of casual browser games to play together with friends remotely.
 - [WerBinIch](https://www.werbinich.online)
 - [WhatsAMusic](https://whatsamook.games/mu)
 	- Skribbl, but with music you have to guess
+        - Topic Helper: https://soratenshi.github.io/whatsamusic-topic-picker
 
 You may find more games at [r/WebGames](https://www.reddit.com/r/WebGames).
