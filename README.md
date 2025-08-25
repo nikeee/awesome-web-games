@@ -3,7 +3,7 @@ A collection of casual browser games to play together with friends remotely.
 
 - [Broken Picute Phone](https://www.brokenpicturephone.com)
 	- Alternatives:
-		- [Garticphone](https://garticphone.com)
+		- [Garticphone](https://garticphone.com) - They have more Games on [onrizon](https://onrizon.com)
 		- [Drawception](https://drawception.com)
 - [Codenames](https://codenames.game)
 	- Online version of the board game
