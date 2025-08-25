@@ -12,11 +12,12 @@ A collection of casual browser games to play together with friends remotely.
 - [Geotastic](https://geotastic.de)
 	- Free version of https://www.geoguessr.com
 	- The author pays a Lot €/Month for Google APIs. Consider Donating!
-- [VirtualVacation](https://virtualvacation.us)
+- [cityguesser](https://play.cityguesser.eu): Guessing a location based on a pre-recorded video
 - [Never have I ever](https://never-have-i-ever-online.com)
 - [skribbl.io](https://skribbl.io)
     - Alternatives:
        - [sketchful.io](https://sketchful.io)
+- [rank5.io](https://rank5.io)
 - [MakeItMeme](https://makeitmeme.com)
 	- Web version of [What do you meme?](https://whatdoyoumeme.com)
 - [WerBinIch](https://www.werbinich.online)
