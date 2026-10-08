@@ -25,5 +25,7 @@ A collection of casual browser games to play together with friends remotely.
 - [WhatsAMusic](https://whatsamook.games/mu)
 	- Skribbl, but with music you have to guess
 	- Topic Helper: https://soratenshi.github.io/whatsamusic-topic-picker
+- [Parlour](https://parlour.cards)
+	- Classic card games (Hearts, Euchre, Spades, Cribbage, Poker and more) with friends over a room code, no account needed
 
 You may find more games at [r/WebGames](https://www.reddit.com/r/WebGames).
