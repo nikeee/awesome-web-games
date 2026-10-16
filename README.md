@@ -29,5 +29,6 @@ A collection of casual browser games to play together with friends remotely.
 	- Guess a song by listening to its first couple of seconds
 - [Parlour](https://parlour.cards)
 	- Classic card games (Hearts, Euchre, Spades, Cribbage, Poker and more) with friends over a room code, no account needed
+- [DeckGames](https://deckgames.io): Free card and board games in the browser against bots, no account needed
 
 You may find more games at [r/WebGames](https://www.reddit.com/r/WebGames).
