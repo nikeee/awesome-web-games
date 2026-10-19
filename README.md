@@ -29,5 +29,6 @@ A collection of casual browser games to play together with friends remotely.
 	- Guess a song by listening to its first couple of seconds
 - [Parlour](https://parlour.cards)
 	- Classic card games (Hearts, Euchre, Spades, Cribbage, Poker and more) with friends over a room code, no account needed
+- [Pokemon Arena 2D](https://poke2darena.com/): Fan-made real-time 2D Pokemon battles; online 1v1 against a friend, no account needed
 
 You may find more games at [r/WebGames](https://www.reddit.com/r/WebGames).
