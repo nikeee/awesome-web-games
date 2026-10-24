@@ -14,6 +14,7 @@ A collection of casual browser games to play together with friends remotely.
 	- The author pays a Lot €/Month for Google APIs. Consider Donating!
 - [cityguesser](https://play.cityguesser.eu): Guessing a location based on a pre-recorded video
 - [Oppocity](https://play.oppocity.app/): Guess the antipode of five cities in 75 seconds
+- [Plain Game](https://plaingame.fun/): Daily estimation game; send friends a challenge link and compare scores on the same seven rounds
 - [Never have I ever](https://never-have-i-ever-online.com)
 - [skribbl.io](https://skribbl.io)
     - Alternatives:
