@@ -16,6 +16,7 @@ A collection of casual browser games to play together with friends remotely.
 - [Oppocity](https://play.oppocity.app/): Guess the antipode of five cities in 75 seconds
 - [Plain Game](https://plaingame.fun/): Daily estimation game; send friends a challenge link and compare scores on the same seven rounds
 - [Never have I ever](https://never-have-i-ever-online.com)
+- [Noillirk](https://noillirk.pro/): Free party guessing game — pick the answers you think most people would give; host a live room and share the link with friends
 - [skribbl.io](https://skribbl.io)
     - Alternatives:
        - [sketchful.io](https://sketchful.io)
