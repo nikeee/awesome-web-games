@@ -30,5 +30,6 @@ A collection of casual browser games to play together with friends remotely.
 	- Guess a song by listening to its first couple of seconds
 - [Parlour](https://parlour.cards)
 	- Classic card games (Hearts, Euchre, Spades, Cribbage, Poker and more) with friends over a room code, no account needed
+- [EraGuessr](https://eraguessr.ai/): Guess the place and year of AI-generated historical panoramas with friends; guests join without an account, hosting a party requires EraGuessr+
 
 You may find more games at [r/WebGames](https://www.reddit.com/r/WebGames).
