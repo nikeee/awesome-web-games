@@ -30,5 +30,6 @@ A collection of casual browser games to play together with friends remotely.
 	- Guess a song by listening to its first couple of seconds
 - [Parlour](https://parlour.cards)
 	- Classic card games (Hearts, Euchre, Spades, Cribbage, Poker and more) with friends over a room code, no account needed
+- [Mu Veyra](https://muveyra.com/play/): MU Online Season 6 in the browser, no download (WebAssembly, WebGPU with WebGL2 fallback)
 
 You may find more games at [r/WebGames](https://www.reddit.com/r/WebGames).
