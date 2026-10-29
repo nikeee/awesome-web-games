@@ -31,4 +31,7 @@ A collection of casual browser games to play together with friends remotely.
 - [Parlour](https://parlour.cards)
 	- Classic card games (Hearts, Euchre, Spades, Cribbage, Poker and more) with friends over a room code, no account needed
 
+- [Trick or Take](https://trickortake.com/)
+	- Fast-paced Halloween candy heist game with friends over a room code, featuring live proximity voice chat, no account needed
+
 You may find more games at [r/WebGames](https://www.reddit.com/r/WebGames).
