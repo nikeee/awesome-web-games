@@ -30,5 +30,7 @@ A collection of casual browser games to play together with friends remotely.
 	- Guess a song by listening to its first couple of seconds
 - [Parlour](https://parlour.cards)
 	- Classic card games (Hearts, Euchre, Spades, Cribbage, Poker and more) with friends over a room code, no account needed
+- [PewPewPew](https://pewpewpew.io)
+	- Real-time multiplayer space shooter; share a room link and fly against friends, no account needed
 
 You may find more games at [r/WebGames](https://www.reddit.com/r/WebGames).
