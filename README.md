@@ -27,6 +27,8 @@ A collection of casual browser games to play together with friends remotely.
 	- Skribbl, but with music you have to guess
 	- Topic Helper: https://soratenshi.github.io/whatsamusic-topic-picker
 - [Songless](https://lessgames.com/songless)
+- [PoopleGame](https://pooplegame.fun)
+	- Daily four-letter word ladder: change one letter per step to reach the target word
 	- Guess a song by listening to its first couple of seconds
 - [Parlour](https://parlour.cards)
 	- Classic card games (Hearts, Euchre, Spades, Cribbage, Poker and more) with friends over a room code, no account needed
