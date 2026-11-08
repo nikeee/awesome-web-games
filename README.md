@@ -30,5 +30,6 @@ A collection of casual browser games to play together with friends remotely.
 	- Guess a song by listening to its first couple of seconds
 - [Parlour](https://parlour.cards)
 	- Classic card games (Hearts, Euchre, Spades, Cribbage, Poker and more) with friends over a room code, no account needed
+- [Outlier: Unlimited Krillion Game](https://playkrillion.net/): Free rare-answer word game with an Outlier Daily (same seven prompts for everyone) and a shareable emoji grid; no account needed
 
 You may find more games at [r/WebGames](https://www.reddit.com/r/WebGames).
