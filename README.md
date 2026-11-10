@@ -29,6 +29,7 @@ A collection of casual browser games to play together with friends remotely.
 - [Songless](https://lessgames.com/songless)
 	- Guess a song by listening to its first couple of seconds
 - [Parlour](https://parlour.cards)
-[Pips Hints](https://pipshints.org/): Daily NYT Pips hints and answers, plus free unlimited Pips domino puzzles	- Classic card games (Hearts, Euchre, Spades, Cribbage, Poker and more) with friends over a room code, no account needed
+	- Classic card games (Hearts, Euchre, Spades, Cribbage, Poker and more) with friends over a room code, no account needed
+- [Pips Hints](https://pipshints.org/): Daily NYT Pips hints and answers, plus free unlimited Pips domino puzzles
 
 You may find more games at [r/WebGames](https://www.reddit.com/r/WebGames).
