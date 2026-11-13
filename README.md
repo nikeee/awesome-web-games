@@ -28,6 +28,8 @@ A collection of casual browser games to play together with friends remotely.
 	- Topic Helper: https://soratenshi.github.io/whatsamusic-topic-picker
 - [Songless](https://lessgames.com/songless)
 	- Guess a song by listening to its first couple of seconds
+- [Don't Block Me Quiz](https://dontblockmequiz.net/)
+	- 10-question quiz to test how well your friends know you; send a link and compare scores
 - [Parlour](https://parlour.cards)
 	- Classic card games (Hearts, Euchre, Spades, Cribbage, Poker and more) with friends over a room code, no account needed
 
