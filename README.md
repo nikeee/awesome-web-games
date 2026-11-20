@@ -15,6 +15,7 @@ A collection of casual browser games to play together with friends remotely.
 - [cityguesser](https://play.cityguesser.eu): Guessing a location based on a pre-recorded video
 - [Oppocity](https://play.oppocity.app/): Guess the antipode of five cities in 75 seconds
 - [Plain Game](https://plaingame.fun/): Daily estimation game; send friends a challenge link and compare scores on the same seven rounds
+- [Puffer Party](https://pufferparty.org/): Live, turn-based category game for a group of friends using a private room link.
 - [Never have I ever](https://never-have-i-ever-online.com)
 - [skribbl.io](https://skribbl.io)
     - Alternatives:
